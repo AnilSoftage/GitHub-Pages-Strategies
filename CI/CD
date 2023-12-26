@@ -1,0 +1,1 @@
+Continuous Integration and Continuous Deployment pipelines to automate the deployment process. This ensures that changes made to the GitHub Pages site are automatically built and deployed according to the defined strategies.
